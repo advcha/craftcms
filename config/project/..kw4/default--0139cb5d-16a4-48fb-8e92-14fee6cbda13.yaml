@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: 'Craft CMS Test'
+primary: true
+siteGroup: a1558ba4-4874-4403-9875-0abb4d541705 # Craft CMS Test
+sortOrder: 1

@@ -1,0 +1,112 @@
+field: 04fa8c26-fcbf-49eb-824c-a701f765e62f # Riders
+fieldLayouts:
+  7ad2aa52-8dce-4b49-9740-5b4c86450667:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 83982998-3647-4650-89c7-b38173e24afd # Photo
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 529bed67-8099-4937-9c76-eb6107781c5e # Full Name
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 39ecab3e-4031-4791-b3ee-e2c39a886af1 # Description
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  39ecab3e-4031-4791-b3ee-e2c39a886af1: # Description
+    columnSuffix: mqawprzf
+    contentColumnType: text
+    fieldGroup: null
+    handle: description
+    instructions: ''
+    name: Description
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '2'
+      multiline: '1'
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  529bed67-8099-4937-9c76-eb6107781c5e: # Full Name
+    columnSuffix: ohavjrty
+    contentColumnType: text
+    fieldGroup: null
+    handle: fullName
+    instructions: ''
+    name: 'Full Name'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  83982998-3647-4650-89c7-b38173e24afd: # Photo
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: photo
+    instructions: ''
+    name: Photo
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      allowUploads: true
+      allowedKinds: null
+      defaultUploadLocationSource: 'volume:6de9e057-d31a-4285-921e-461acdbe4c16' # Home
+      defaultUploadLocationSubpath: ''
+      limit: '1'
+      localizeRelations: false
+      previewMode: full
+      restrictFiles: ''
+      selectionLabel: ''
+      showSiteMenu: false
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      singleUploadLocationSource: 'volume:6de9e057-d31a-4285-921e-461acdbe4c16' # Home
+      singleUploadLocationSubpath: ''
+      source: null
+      sources: '*'
+      targetSiteId: null
+      useSingleFolder: false
+      validateRelatedElements: false
+      viewMode: large
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+handle: rider
+name: Rider
+sortOrder: 1

@@ -1,0 +1,61 @@
+dateModified: 1657634839
+email:
+  fromEmail: advcha@yahoo.com
+  fromName: 'Craft CMS Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    4a8eafed-2ccc-4f41-a00e-05cfe40dc81c: Homepage # Homepage
+    4bf72f84-66f5-4fa9-b622-20b6c6a2f75f: Common # Common
+    04fa8c26-fcbf-49eb-824c-a701f765e62f: Riders # Riders
+    6c1ebcd2-b5bf-4813-88c1-10ef80392905: 'Rich Text' # Rich Text
+    6de9e057-d31a-4285-921e-461acdbe4c16: Home # Home
+    8cf3a2dc-e997-4b93-a5bb-2dde8e3513bc: 'Hero Title' # Hero Title
+    8d194be7-c9c1-4b66-a0cc-ed26b51e470c: Riders # Riders
+    19d878cd-3df8-4464-87c8-3f07e833726c: Home # Home
+    26b243af-d950-4fd9-9057-83abf0b660d2: 'Hero Image' # Hero Image
+    39ecab3e-4031-4791-b3ee-e2c39a886af1: Description # Description
+    54d4fbe5-330c-478b-bcb2-9f36bb78a834: Link # Link
+    091e1f74-355a-4b7e-9793-02ce47d090de: 'Featured Story' # Featured Story
+    0139cb5d-16a4-48fb-8e92-14fee6cbda13: Motoventure # Motoventure
+    529bed67-8099-4937-9c76-eb6107781c5e: 'Full Name' # Full Name
+    546db221-4469-49b7-9b3a-d16adbef2186: 'Stories Listing' # Stories Listing
+    820dcc98-2f2e-4131-b75c-d3113595bb70: 'Link Destination' # Link Destination
+    4469a340-1bae-4967-b3b1-4b8769903a67: 'General Pages' # General Pages
+    5191c8fc-06dd-4d9d-a8d7-aae112acb01e: 'General Pages' # General Pages
+    65923e48-07b9-45dd-8a62-d2d485c4ade2: 'Stories Listing' # Stories Listing
+    348374ef-3dd1-4112-8340-7fff34230de6: Header # Header
+    83982998-3647-4650-89c7-b38173e24afd: Photo # Photo
+    a1558ba4-4874-4403-9875-0abb4d541705: 'Craft CMS Test' # Craft CMS Test
+    a52179d7-bade-4eac-b6fd-19467a8f90dc: Sliders # Sliders
+    b0c6e304-e828-4a0b-9857-ddd8931146a8: Hero # Hero
+    b8c64ed4-a273-465b-a64f-46b8314f4476: Stories # Stories
+    ba7e9017-4834-4ca4-a1d6-229b4d35e587: Home # Home
+    bbf9b328-dcd7-48b5-9f2f-f7e19e41ae43: 'Short Description' # Short Description
+    bcd386fc-3b5f-417f-ac73-7be0dc5b4fa6: 'General Image' # General Image
+    d2cdcb28-b2e5-49ec-bba8-615f64cfd623: 'Public Schema' # Public Schema
+    d35cdd7b-a74d-45b2-9199-cab3d5f3e709: Stories # Stories
+    dc61e248-3849-4eaa-b383-29f7689603c0: Rider # Rider
+    e040d5a8-1f3c-4b78-822f-631990dc1533: Photos # Photos
+    e8fe2785-c5b3-4eb6-9388-92a87c76153c: 'Riders Intro Content' # Riders Intro Content
+    e4024ae4-1a95-42b4-9288-468c481c6e40: Footer # Footer
+    ed59d45b-8b9a-4c2b-ac87-8dbee6ee8095: 'Link Text' # Link Text
+    f806288e-2d24-4a39-9ea1-37cefd039fae: 'Nav Links' # Nav Links
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: pro
+  live: true
+  name: Motoventure
+  retryDuration: null
+  schemaVersion: 3.7.33
+  timeZone: Asia/Jakarta
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

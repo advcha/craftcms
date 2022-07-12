@@ -1,0 +1,19 @@
+columnSuffix: tfpgxthm
+contentColumnType: text
+fieldGroup: 4bf72f84-66f5-4fa9-b622-20b6c6a2f75f # Common
+handle: shortDescription
+instructions: ''
+name: 'Short Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '3'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

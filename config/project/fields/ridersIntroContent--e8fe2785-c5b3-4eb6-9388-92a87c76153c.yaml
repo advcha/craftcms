@@ -1,0 +1,27 @@
+columnSuffix: ytragwol
+contentColumnType: text
+fieldGroup: 4a8eafed-2ccc-4f41-a00e-05cfe40dc81c # Homepage
+handle: ridersIntroContent
+instructions: ''
+name: 'Riders Intro Content'
+searchable: false
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: ''
+  purifyHtml: '1'
+  redactorConfig: ''
+  removeEmptyTags: '1'
+  removeInlineStyles: '1'
+  removeNbsp: '1'
+  showHtmlButtonForNonAdmins: '1'
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

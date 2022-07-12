@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+handle: generalPages
+name: 'General Pages'
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  0139cb5d-16a4-48fb-8e92-14fee6cbda13: # Motoventure
+    enabledByDefault: true
+    hasUrls: true
+    template: general.twig
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: 2
+  uid: 6516b89f-dd87-4dfd-83ed-1c70b11c0d41
+type: structure

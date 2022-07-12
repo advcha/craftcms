@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: true
+handle: stories
+name: Stories
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  0139cb5d-16a4-48fb-8e92-14fee6cbda13: # Motoventure
+    enabledByDefault: true
+    hasUrls: true
+    template: stories/_entry
+    uriFormat: 'stories/{slug}'
+type: channel

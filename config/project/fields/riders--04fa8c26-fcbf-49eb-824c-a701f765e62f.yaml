@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 4a8eafed-2ccc-4f41-a00e-05cfe40dc81c # Homepage
+handle: riders
+instructions: ''
+name: Riders
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_riders}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

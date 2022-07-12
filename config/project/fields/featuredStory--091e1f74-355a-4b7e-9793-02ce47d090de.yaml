@@ -1,0 +1,22 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 4a8eafed-2ccc-4f41-a00e-05cfe40dc81c # Homepage
+handle: featuredStory
+instructions: ''
+name: 'Featured Story'
+searchable: false
+settings:
+  allowSelfRelations: false
+  limit: '1'
+  localizeRelations: false
+  selectionLabel: 'Select a story'
+  showSiteMenu: false
+  source: null
+  sources:
+    - 'section:d35cdd7b-a74d-45b2-9199-cab3d5f3e709' # Stories
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Entries

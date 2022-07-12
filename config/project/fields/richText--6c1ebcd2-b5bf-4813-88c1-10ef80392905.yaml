@@ -1,0 +1,27 @@
+columnSuffix: ezlyapaw
+contentColumnType: text
+fieldGroup: 4bf72f84-66f5-4fa9-b622-20b6c6a2f75f # Common
+handle: richText
+instructions: ''
+name: 'Rich Text'
+searchable: false
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: bcd386fc-3b5f-417f-ac73-7be0dc5b4fa6 # General Image
+  manualConfig: ''
+  purifierConfig: ''
+  purifyHtml: '1'
+  redactorConfig: ''
+  removeEmptyTags: '1'
+  removeInlineStyles: '1'
+  removeNbsp: '1'
+  showHtmlButtonForNonAdmins: '1'
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field
